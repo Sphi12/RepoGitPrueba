@@ -1,1 +1,5 @@
-Esto es una prueba. 
+Pasos git
+
+git init
+git add 
+Hola soy sopphia.
