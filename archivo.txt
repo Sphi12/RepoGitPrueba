@@ -3,3 +3,6 @@ Pasos git
 git init
 git add 
 Hola soy sopphia.
+
+
+mi tercer committ.
